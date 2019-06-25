@@ -14,7 +14,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
   ```
 
 ## To try this sample
-##Hei!
+#Hei!
 
 - In a terminal, navigate to `ContactBot`
 
